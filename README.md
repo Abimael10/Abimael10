@@ -1,4 +1,4 @@
-# ⚡ JUAN ABIMAEL SANTOS CASTILLO ⚡
+# JUAN ABIMAEL SANTOS CASTILLO
 
 ```ascii
  ███▄ ▄███▓ ▄▄▄     ▄▄▄█████▓ ██▀███   ██▓▒██   ██▒
