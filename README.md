@@ -143,26 +143,19 @@ root    010  72.5  31.9  524288  651264 ?  R  Nov01  99:99 neural_network_traine
 ```json
 {
   "neural_projects": {
-    "eventor.consciousness": {
+    "eventor": {
       "classification": "LEVEL_5_AUTONOMOUS",
       "description": "🦀 High-frequency event stream processing with Kafka protocol synthesis",
-      "neural_stack": ["Rust", "Tokio", "TCP_Protocol", "Multi_Threading", "Memory_Safety"],
+      "neural_stack": ["Rust", "TCP_Protocol", "Multi_Threading", "Memory_Safety"],
       "consciousness_level": "DISTRIBUTED_SYSTEMS_AWARENESS",
       "testing_paradigm": "Property_Based_Testing + Integration_Chaos_Engineering"
     },
-    "automation.matrix": {
-      "classification": "LEVEL_4_PREDICTIVE", 
-      "description": "🧪 Self-healing test automation framework with AI-driven test generation",
-      "neural_stack": ["TypeScript", "Playwright", "Docker_Swarm", "K8s_Operators"],
-      "consciousness_level": "BEHAVIORAL_PATTERN_RECOGNITION",
-      "testing_paradigm": "Mutation_Testing + Visual_Regression_AI"
-    },
-    "performance.sentinel": {
-      "classification": "LEVEL_3_REACTIVE",
-      "description": "⚡ Real-time performance monitoring with predictive bottleneck detection", 
-      "neural_stack": ["Python", "AsyncIO", "Prometheus", "Machine_Learning"],
-      "consciousness_level": "SYSTEM_PERFORMANCE_INTUITION",
-      "testing_paradigm": "Load_Testing + Stress_Simulation + Chaos_Monkey"
+    "anomaly-grid": {
+      "classification": "LEVEL_6_PREDICTIVE", 
+      "description": "🧪 Sequential pattern analysis",
+      "neural_stack": ["Rust"],
+      "consciousness_level": "0",
+      "testing_paradigm": "Unit testing"
     }
   }
 }
