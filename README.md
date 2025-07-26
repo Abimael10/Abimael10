@@ -268,11 +268,6 @@ root    010  72.5  31.9  524288  651264 ?  R  Nov01  99:99 neural_network_traine
  ╰─────────────────────────────────────────────────────────────────────────╯
 ```
 
-[![LinkedIn Neural Link](https://img.shields.io/badge/🔗_LinkedIn-Matrix_Professional_Network-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/juan-abimael-santos-castillo/)
-[![Email Protocol](https://img.shields.io/badge/📡_Email-Neural_Communication-FF0080?style=for-the-badge&logo=gmail&logoColor=FF0080&labelColor=000000)](mailto:juan.abimael.santos.matrix@protonmail.com)
-[![Portfolio Matrix](https://img.shields.io/badge/🌐_Portfolio-Digital_Consciousness-00FFFF?style=for-the-badge&logo=web&logoColor=00FFFF&labelColor=000000)](https://abimael-neural-matrix.dev)
-[![🇩🇴 Caribbean Node](https://img.shields.io/badge/🏝️_Caribbean-Tech_Hub_Node-FFD700?style=for-the-badge&logoColor=FFD700&labelColor=000000)](https://dominican-tech-matrix.net)
-
 </div>
 
 ```bash
@@ -335,8 +330,6 @@ root    010  72.5  31.9  524288  651264 ?  R  Nov01  99:99 neural_network_traine
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
                                                                   /.-~
 ```
-
-<img src="https://komarev.com/ghpvc/?username=Abimael10&color=00FF41&style=for-the-badge&label=MATRIX+NEURAL+SESSIONS"/>
 
 </div>
 
