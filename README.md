@@ -21,12 +21,12 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ juan.abimael.santos.castillo@matrix-net                                     ┃
-┃ Unix: Darwin matrix-01x 5.1.2600 #1 SMP Fri Nov 15 09:36:58 EST 2024      ┃
-┃ Arch: x86_64-neo-consciousness                                              ┃
-┃ Shell: /usr/bin/future-zsh --protocol-bypass --reality-mode=augmented      ┃
-┃ Location: [ENCRYPTED] Santo Domingo, Dominican Republic                     ┃
-┃ Status: ONLINE | Reality Level: MATRIX | Clearance: ROOT                    ┃
+┃ juan.abimael.santos.castillo@matrix-net                                          ┃
+┃ Unix: Darwin matrix-01x 5.1.2600 #1 SMP Fri Nov 15 09:36:58 EST 2024             ┃
+┃ Arch: x86_64-neo-consciousness                                                   ┃
+┃ Shell: /usr/bin/future-zsh --protocol-bypass --reality-mode=augmented            ┃
+┃ Location: [ENCRYPTED] Santo Domingo, Dominican Republic                          ┃
+┃ Status: ONLINE | Reality Level: MATRIX | Clearance: ROOT                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -45,16 +45,16 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                            ▓▓▓ CORE PROTOCOLS ▓▓▓                           ║
+║                            ▓▓▓ CORE PROTOCOLS ▓▓▓                            ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  🦀 RUST                ████████████████████████████████████████████ 97%   ║
-║  🔥 JS/TS.RUNTIME       ██████████████████████████████████████████   93%   ║
-║  🐍 PYTHON              ████████████████████████████████████████     91%   ║
-║  ☕ JAVA                ███████████████████████████████████          88%   ║
-║  💎 SQL                 ███████████████████████████████████████████  95%   ║
-║  🌐 SHELL.AUTOMATION    ████████████████████████████████████████████ 96%   ║
-║  ⚙️ SYSTEM.PROGRAMMING  ██████████████████████████████████████████   92%   ║
+║  🦀 RUST                ████████████████████████████████████████████ 97%     ║
+║  🔥 JS/TS.RUNTIME       ██████████████████████████████████████████   93%     ║
+║  🐍 PYTHON              ████████████████████████████████████████     91%     ║
+║  ☕ JAVA                ███████████████████████████████████          88%     ║
+║  💎 SQL                 ███████████████████████████████████████████  95%     ║
+║  🌐 SHELL.AUTOMATION    ████████████████████████████████████████████ 96%     ║
+║  ⚙️ SYSTEM.PROGRAMMING  ██████████████████████████████████████████   92%     ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -346,7 +346,7 @@ root    010  72.5  31.9  524288  651264 ?  R  Nov01  99:99 neural_network_traine
  ▌ FOLLOW THE WHITE RABBIT 🐰                                                 ▐
  ▌ KNOCK, KNOCK, NEO...                                                       ▐
  ▌                                                                            ▐
- ▌ ⚡ POWERED BY RUST + CAFFEINE + DIGITAL RAIN ⚡                             ▐
+ ▌ ⚡ POWERED BY RUST + CAFFEINE + DIGITAL RAIN ⚡                            ▐
  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
