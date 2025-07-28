@@ -61,33 +61,6 @@
 
 </div>
 
-```bash
-┌─[root@matrix-01x]─[/home/abimael/arsenal]─[23:59:59]
-└─# ls -la --recursive --classify
-```
-
-### 🛠️ DIGITAL ARSENAL
-
-```
-
-```bash
-┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
-└─# ps -aux --sort=-cpu --cols=120 | head -20
-```
-
-```
-USER    PID  %CPU %MEM    VSZ   RSS TTY   STAT START   TIME COMMAND
-root    001  99.2  85.7 2097152 1748576 ?  R  Nov01 999:59 rust_systems_programming
-root    002  97.8  72.4 1572864 1476352 ?  S  Nov01 888:88 test_automation
-root    003  94.1  68.9 1441792 1404160 ?  S  Nov01 777:77 performance_optimization
-root    004  91.7  65.3 1310720 1331968 ?  R  Nov01 666:66 distributed_systems_dev
-root    005  89.4  59.8 1179648 1220864 ?  S  Nov01 555:55 code_quality_enforcer
-root    006  85.6  54.2 1048576 1109760 ?  R  Nov01 444:44 async_event_stream_processor
-root    007  82.3  48.7  917504  993280 ?  S  Nov01 333:33 security_protocol_analyzer
-root    008  79.1  43.1  786432  879616 ?  R  Nov01 222:22 ci_cd_pipeline_orchestrator
-root    009  75.8  37.6  655360  765952 ?  S  Nov01 111:11 database_query_optimizer
-root    010  72.5  31.9  524288  651264 ?  R  Nov01  99:99 neural_network_trainer
-```
 
 ```bash
 ┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
