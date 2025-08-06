@@ -44,7 +44,7 @@
 ```markdown
 ## 🔋 System Status - Languaged Used
 ```
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Abimael10=vn7n24fzkq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abimael10&theme=2077) 
 
 ```
 Last system scan: Dynamic | Status: ● ONLINE | Tracking: ALL_REPOS
