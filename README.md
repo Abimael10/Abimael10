@@ -41,21 +41,9 @@
 
 ## ⚡ NEURAL NETWORK ARCHITECTURE
 
-```markdown
-## 🔋 System Status - Language Used
-
-```
-┌─────────────────── MATRIX INTERFACE v2.1 ───────────────────┐
-│ root@github:~$ ./scan_repositories.sh --include-private     │
-│ Scanning linguistic signatures across dimensional space...  │
-│                                                             │
-│ ████████████████████████████████████████████████████████    │
-│ DECRYPTION: [████████████████████████████] 100% COMPLETE    │
-└─────────────────────────────────────────────────────────────┘
-
 <div align="center">
   
-![Matrix Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=matrix&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41)
+![Matrix Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abimael10&layout=compact&theme=matrix&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41)
 
 </div>
 
@@ -75,7 +63,7 @@ root@matrix:~$ ps aux | grep "coding_patterns"
 
 <div align="center">
   
-![Coding Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&text_color=00ff00&icon_color=00ff00&title_color=00ff00&custom_title=◉%20LINGUISTIC%20PROTOCOLS%20DETECTED)
+![Coding Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=abimael10&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&text_color=00ff00&icon_color=00ff00&title_color=00ff00&custom_title=◉%20LINGUISTIC%20PROTOCOLS%20DETECTED)
 
 </div>
 
