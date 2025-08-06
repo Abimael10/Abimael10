@@ -44,18 +44,7 @@
 ```markdown
 ## 🔋 System Status - Languaged Used
 ```
-
-<div align="center">
-  
-![Matrix Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael10&layout=compact&theme=matrix&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41&langs_count=20&card_width=500)
-
-</div>
-
-<div align="center">
-  
-![Coding Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael10&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&text_color=00ff00&icon_color=00ff00&title_color=00ff00&custom_title=◉%20LINGUISTIC%20PROTOCOLS%20DETECTED&langs_count=20&card_width=500)
-
-</div>
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael10&layout=donut&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&title_color=00ff41&langs_count=50&size_weight=0.5&count_weight=0.5)
 
 ```
 Last system scan: Dynamic | Status: ● ONLINE | Tracking: ALL_REPOS
