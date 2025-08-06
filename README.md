@@ -41,42 +41,6 @@
 
 ## ⚡ NEURAL NETWORK ARCHITECTURE
 
-# Matrix GitHub Profile Stats
-
-## Installation Instructions
-
-1. **Generate a GitHub Personal Access Token:**
-   - Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
-   - Generate new token with these scopes: `repo`, `read:user`
-   - Copy the token
-
-2. **Add the token to your repository secrets:**
-   - Go to your profile repository settings
-   - Navigate to Secrets and variables → Actions
-   - Add new secret named `GH_TOKEN` with your token as the value
-
-3. **Create GitHub Action (`.github/workflows/update-stats.yml`):**
-```yaml
-name: Update Matrix Stats
-on:
-  schedule:
-    - cron: '0 */6 * * *'  # Updates every 6 hours
-  workflow_dispatch:
-
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Update Matrix Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-```
-
-4. **Add this component to your README.md:**
-
 ```markdown
 ## 🔋 System Status - Language Matrix
 
