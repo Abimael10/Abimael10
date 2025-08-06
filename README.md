@@ -41,29 +41,63 @@
 
 ## ⚡ NEURAL NETWORK ARCHITECTURE
 
+# Matrix GitHub Profile Stats
+
+## Installation Instructions
+
+1. **Generate a GitHub Personal Access Token:**
+   - Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
+   - Generate new token with these scopes: `repo`, `read:user`
+   - Copy the token
+
+2. **Add the token to your repository secrets:**
+   - Go to your profile repository settings
+   - Navigate to Secrets and variables → Actions
+   - Add new secret named `GH_TOKEN` with your token as the value
+
+3. **Create GitHub Action (`.github/workflows/update-stats.yml`):**
+```yaml
+name: Update Matrix Stats
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Updates every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update Matrix Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+```
+
+4. **Add this component to your README.md:**
+
+```markdown
+## 🔋 System Status - Language Matrix
+
+```
+┌─────────────────── MATRIX INTERFACE v2.1 ───────────────────┐
+│ root@github:~$ ./scan_repositories.sh --include-private     │
+│ Scanning linguistic signatures across dimensional space...   │
+│                                                             │
+│ ████████████████████████████████████████████████████████    │
+│ DECRYPTION: [████████████████████████████] 100% COMPLETE   │
+└─────────────────────────────────────────────────────────────┘
+
 <div align="center">
   
-![Matrix Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abimael10&layout=compact&theme=matrix&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41)
+![Matrix Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=matrix&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&icon_color=00ff41&title_color=00ff41&langs_count=20&card_width=500)
 
 </div>
 
-```
-root@matrix:~$ ps aux | grep "coding_patterns"
-```
-
-**NEURAL PATTERN ANALYSIS:**
-```
-├── Primary Execution Threads    
-│   ├── [CLASSIFIED] ████████████
-│   ├── [CLASSIFIED] ██████████  
-│   └── [CLASSIFIED] ████████    
-│
-└── Background Processes: ∞ repositories monitored
-```
-
 <div align="center">
   
-![Coding Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=abimael10&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&text_color=00ff00&icon_color=00ff00&title_color=00ff00&custom_title=◉%20LINGUISTIC%20PROTOCOLS%20DETECTED)
+![Coding Matrix](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=000000&text_color=00ff00&icon_color=00ff00&title_color=00ff00&custom_title=◉%20LINGUISTIC%20PROTOCOLS%20DETECTED&langs_count=20&card_width=500)
 
 </div>
 
