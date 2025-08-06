@@ -1,16 +1,1 @@
-name: Update Stats
-on:
-  schedule:
-    - cron: '0 */6 * * *'  # Updates every 6 hours
-  workflow_dispatch:
 
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Update Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
