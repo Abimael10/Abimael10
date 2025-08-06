@@ -44,7 +44,7 @@
 ```markdown
 ## 🔋 System Status - Languaged Used
 ```
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael10&layout=donut&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=00ff41&title_color=00ff41&langs_count=50&size_weight=0.5&count_weight=0.5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Abimael10=vn7n24fzkq&theme=2077)
 
 ```
 Last system scan: Dynamic | Status: ● ONLINE | Tracking: ALL_REPOS
