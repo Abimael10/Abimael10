@@ -46,7 +46,7 @@
 ```
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abimael10&theme=2077) 
 
-![](https://raw.githubusercontent.com/Abimael10/Abimael10/main/profile-summary-card-output/github-dark/2-most-commit-language.svg)
+![Metrics](./github-metrics.svg)
 
 ```
 Last system scan: Dynamic | Status: ● ONLINE | Tracking: ALL_REPOS
