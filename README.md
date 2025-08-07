@@ -42,7 +42,7 @@
 ## ⚡ NEURAL NETWORK ARCHITECTURE
 
 ```markdown
-## 🔋 System Status - Languaged Used
+## 🔋 System Status - Languages Used
 ```
 
 ![Metrics](/github-metrics.svg)
