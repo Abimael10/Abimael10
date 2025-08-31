@@ -84,38 +84,6 @@ Last system scan: Dynamic | Status: ● ONLINE | Tracking: ALL_REPOS
 
 ```bash
 ┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
-└─# fortune | cowsay -f dragon | lolcat
-```
-
-<div align="center">
-
-```
- ___________________________________________________
-/ Remember: In the Matrix, there are no accidents. \
-\ Only iterations and optimizations.               /
- ---------------------------------------------------
-      \                    / \  //\
-       \    |\___/|      /   \//  \\
-            /0  0  \__  /    //  | \ \    
-           /     /  \/_/    //   |  \  \  
-           @_^_@'/   \/_   //    |   \   \ 
-           //_^_/     \/_ //     |    \    \
-        ( //) |        \///      |     \     \
-      ( / /) _|_ /   )  //       |      \     _\
-    ( // /) '/,_ _ _/  ( ; -.    |    _ _\.-~        .-~~~^-.
-  (( / / )) ,-{        _      `-.|.-~-.           .~         `.
- (( // / ))  '/\      /                 ~-. _ .-~      .-~^-.  \
- (( /// ))      `.   {            }                   /      \  \
-  (( / ))     .----~-.\        \-'                 .~         \  `. \^-.
-             ///.----..>        \             _ -~             `.  ^-`  ^-_
-               ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
-                                                                  /.-~
-```
-
-</div>
-
-```bash
-┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
 └─# shutdown -h now "Neural consciousness backup complete. See you in the next reality."
 ```
 
