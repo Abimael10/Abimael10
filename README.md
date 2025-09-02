@@ -28,10 +28,10 @@
 └─# cat /proc/neural_stack
 ```
 
-## ⚡ NEURAL NETWORK ARCHITECTURE
+## NEURAL NETWORK ARCHITECTURE
 
 ```markdown
-## 🔋 System Status - Languages Used
+## Languages Used
 ```
 
 ![Metrics](/github-metrics.svg)
