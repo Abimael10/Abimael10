@@ -25,23 +25,6 @@
 
 ```bash
 ┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
-└─# cat /proc/neural_stack
-```
-
-## NEURAL NETWORK ARCHITECTURE
-
-```markdown
-## Languages Used
-```
-
-![Metrics](/github-metrics.svg)
-
-```
-Last system scan: Dynamic | Status: ● ONLINE | Tracking: ALL_REPOS
-```
-
-```bash
-┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
 └─# shutdown -h now "Neural consciousness backup complete. See you in the next reality."
 ```
 
