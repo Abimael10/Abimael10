@@ -27,7 +27,7 @@
 ┌─[root@matrix-01x]─[/home/abimael]─[23:59:59]
 └─# shutdown -h now "Neural consciousness backup complete. See you in the next reality."
 ```
-[![Top Languages](https://github-readme-stats-by45-abimael10s-projects.vercel.app/api/top-langs/?username=abimael10&layout=compact&theme=dracula&hide_border=true&langs_count=25)]
+![Top Languages](https://github-readme-stats-by45-abimael10s-projects.vercel.app/api/top-langs/?username=abimael10&layout=compact&theme=dracula&hide_border=true&langs_count=25)
 
 <div align="center">
 
