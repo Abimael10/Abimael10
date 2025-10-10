@@ -19,8 +19,6 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-[![Digital Rain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%80%E2%96%88+SYSTEMS+ARCHITECT+%E2%96%88%E2%96%80%E2%96%88;%E2%96%91%E2%96%92%E2%96%93+CODE+QUALITY+ENFORCER+%E2%96%93%E2%96%92%E2%96%91;%E2%96%80%E2%96%84%E2%96%88+AUTOMATION+PROTOCOL+%E2%96%88%E2%96%84%E2%96%80;%E2%96%93%E2%96%88%E2%96%91+DISTRIBUTED+SYSTEMS+%E2%96%91%E2%96%88%E2%96%93;%E2%96%91%E2%96%93%E2%96%88+PERFORMANCE+OPTIMIZER+%E2%96%88%E2%96%93%E2%96%91)](https://git.io/typing-svg)
-
 </div>
 
 ```bash
