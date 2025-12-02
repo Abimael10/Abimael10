@@ -40,7 +40,7 @@
  ▌ FOLLOW THE WHITE RABBIT🐰                                                 ▐
  ▌ KNOCK, KNOCK, NEO...                                                      ▐
  ▌                                                                           ▐
- ▌ ⚡ POWERED BY RUST + CAFFEINE ⚡                                         ▐
+ ▌ ⚡ POWERED BY RUST + CAFFEINE ⚡                                          ▐
  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
