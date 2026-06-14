@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-by45.vercel.app/api/top-langs/?username=abimael10&layout=compact&langs_count=12&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&custom_title=%2F%2F+most_used_languages&hide=html,css,xml,json,yaml,markdown,makefile,dockerfile,cmake,ini,batchfile,scss)
+![Top Languages](https://github-readme-stats-by45.vercel.app/api/top-langs/?username=abimael10&layout=compact&langs_count=12&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=0D1117&custom_title=%2F%2F+most_used_languages&hide=html,css,xml,json,yaml,markdown,makefile,dockerfile,cmake,ini,batchfile,scss,ejs,php,powershell,hack)
 
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
