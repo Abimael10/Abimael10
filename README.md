@@ -8,10 +8,14 @@
 
 </div>
 
-```bash
-┌─[neo@matrix-01x]─[~]─[23:59:59]
-└─# whoami
+<div align="center">
+
 ```
+┌─[neo@matrix-01x]─[~]─[23:59:59]
+└─# whoami                       
+```
+
+</div>
 
 <div align="center">
 
@@ -31,10 +35,14 @@
 
 </div>
 
-```bash
-┌─[neo@matrix-01x]─[~]─[23:59:59]
+<div align="center">
+
+```
+┌─[neo@matrix-01x]─[~]─[23:59:59]                                         
 └─# shutdown -h now "Neural backup complete. See you in the next reality."
 ```
+
+</div>
 
 <div align="center">
 
