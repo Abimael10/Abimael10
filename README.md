@@ -16,15 +16,15 @@
 <div align="center">
 
 ```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ user      : Juan Abimael Santos Castillo  ·  @Abimael10 ┃
-┃ location  : Santo Domingo, Dominican Republic           ┃
-┃ role      : developer                                   ┃
-┃ stack     : Rust · TypeScript · Python · Docker · Linux ┃
-┃ currently : tinkering with Rust, mostly                 ┃
-┃ fuel      : caffeine [████████░░]                       ┃
-┃ status    : ONLINE  ·  following the white rabbit       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ user      : Juan Abimael Santos Castillo  ·  @Abimael10    ┃
+┃ location  : Santo Domingo, Dominican Republic              ┃
+┃ role      : developer                                      ┃
+┃ stack     : Rust · TypeScript · JavaScript · Python · Java ┃
+┃ currently : busy being average, not The One                ┃
+┃ fuel      : caffeine [████████░░]                          ┃
+┃ status    : ONLINE  ·  jacked in                           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ![Top Languages](https://github-readme-stats-by45.vercel.app/api/top-langs/?username=abimael10&layout=compact&langs_count=8&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=0D0208&custom_title=%2F%2F+most_used_languages&hide=html,css,xml,json,yaml,markdown,makefile,dockerfile,cmake,ini,batchfile,scss,ejs,php,powershell,hack)
@@ -38,6 +38,6 @@
 
 <div align="center">
 
-**Connection to matrix-01x closed.**  ·  follow the white rabbit 🐇
+**Connection to matrix-01x closed.**  ·  red pill taken 💊
 
 </div>
