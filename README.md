@@ -36,6 +36,6 @@
 
 <div align="center">
 
-**Connection to matrix-01x closed.**  ·  red pill taken 💊
+**Connection to matrix-01x closed.**  ·  red pill taken <span style="display:inline-block;width:34px;height:14px;background:#FF0000;border-radius:999px;vertical-align:middle;" title="red pill"></span>
 
 </div>
