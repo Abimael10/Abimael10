@@ -21,7 +21,7 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-![Top Languages](https://github-readme-stats-by45.vercel.app/api/top-langs/?username=abimael10&layout=compact&langs_count=8&hide_border=true&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=0D0208&custom_title=%2F%2F+most_used_languages&hide=html,css,xml,json,yaml,markdown,makefile,dockerfile,cmake,ini,batchfile,scss,ejs,php,powershell,hack)
+![Top Languages](https://github-readme-stats-by45.vercel.app/api/top-langs/?username=abimael10&layout=compact&langs_count=8&hide_border=true&title_color=F2592A&text_color=F2592A&icon_color=F2592A&bg_color=0D0208&custom_title=%2F%2F+most_used_languages&hide=html,css,xml,json,yaml,markdown,makefile,dockerfile,cmake,ini,batchfile,scss,ejs,php,powershell,hack)
 
 </div>
 
