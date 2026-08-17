@@ -1,15 +1,5 @@
 <div align="center">
 
-# JUAN ABIMAEL SANTOS CASTILLO
-
-![Matrix digital rain](./matrix-rain.svg)
-
-[![Matrix typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.)](https://github.com/Abimael10)
-
-</div>
-
-<div align="center">
-
 ```
 ┌─[neo@matrix-01x]─[~]─[23:59:59]
 └─# whoami                       
