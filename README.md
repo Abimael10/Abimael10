@@ -13,8 +13,7 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ user      : Juan Abimael Santos Castillo  ·  @Abimael10    ┃
 ┃ location  : Santo Domingo, Dominican Republic              ┃
-┃ role      : developer                                      ┃
-┃ stacks    : TypeScript · Python · Java · C++               ┃
+┃ role      : software engineer                              ┃
 ┃ currently : busy being average, not The One                ┃
 ┃ fuel      : caffeine [████████░░]                          ┃
 ┃ status    : ONLINE  ·  jacked in                           ┃
