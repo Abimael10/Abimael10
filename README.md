@@ -12,7 +12,7 @@
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ user      : Juan Abimael Santos Castillo  ·  @Abimael10    ┃
-┃ location  : Santo Domingo, Dominican Republic              ┃
+┃ location  : Earth                                          ┃
 ┃ role      : software engineer                              ┃
 ┃ currently : busy being average, not The One                ┃
 ┃ fuel      : caffeine [████████░░]                          ┃
